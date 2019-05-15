@@ -598,8 +598,8 @@ ul.alt2 {
     list-style: none;
     padding-left: 0; }
     ul.alt2 li {
-      <!--border-top: solid 1px;-->
-      padding: 0.15rem 0; }
+      <!--border-top: solid 0.5px;-->
+      padding: 0.10rem 0; }
       ul.alt2 li:first-child {
         border-top: 0;
         padding-top: 0; }
@@ -619,7 +619,7 @@ ul.alt li {
   border-top-color: rgba(0, 0, 0, 0.25); }
 
 ul.alt2 li {
-  border-top-color: rgba(0, 0, 0, 0.25); }
+  border-top-color: rgba(0, 0, 0, 0.15); }
 
 /* Table */
 .table-wrapper {
